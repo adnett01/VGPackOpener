@@ -14,7 +14,7 @@ namespace VanguardPackOpenerForm
 {
     public partial class VPackOpener : Form
     {
-        MySqlConnection con = new MySqlConnection("server=localhost;uid=root;pwd=#Vanguard25;database=vanguard_sets;");
+        MySqlConnection con = new MySqlConnection("server=localhost;uid=root;pwd=insertpassword;database=vanguard_sets;");
 
         Random rand = new Random();
 
