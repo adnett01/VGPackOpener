@@ -88,7 +88,7 @@ namespace VanguardPackOpenerForm
 
         
 
-       
+       //USELESS
 
 
         private void PackNumSelector_ValueChanged(object sender, EventArgs e)
