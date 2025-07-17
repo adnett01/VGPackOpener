@@ -16,7 +16,7 @@ namespace VanguardPackOpenerForm
     public partial class Box_Selector : Form
     {
 
-        MySqlConnection con = new MySqlConnection("server=localhost;uid=root;pwd=#Vanguard25;database=vanguard_sets;");
+        MySqlConnection con = new MySqlConnection("server=localhost;uid=root;pwd=insertpassword;database=vanguard_sets;");
 
 
         string boxName;
